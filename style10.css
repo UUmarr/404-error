@@ -1,0 +1,30 @@
+﻿
+
+
+body{
+background: url(leaf.png);
+
+.project-text{
+ margin-right: 48px;
+}
+
+.navigation{
+display: flex;
+align-items: center;
+justify-content: space-between;
+height: 102px;
+
+padding-left: 135px;
+padding-right: 135px;
+}
+
+.navigation-text{
+display: flex;
+}
+.picture{
+top: 300px;
+
+icon{
+padding-left: 0px 0px 0px 300px;
+display: flex;
+}
